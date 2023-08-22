@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">desafio_DIO</string>
+    <string name="title">Olá Mundo!</string>
+    <string name="text">Aprendendo sobre internacionalização do APP com a DIO!</string>
+</resources>
